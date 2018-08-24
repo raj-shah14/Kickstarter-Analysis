@@ -1,0 +1,10 @@
+#pip install -r requirements.txt
+
+scikit-learn==0.19.1
+matplotlib
+numpy==1.13.3
+basemap==1.0.7
+pandas==0.23.3
+xgboost==0.80
+seaborn==0.8.1
+
